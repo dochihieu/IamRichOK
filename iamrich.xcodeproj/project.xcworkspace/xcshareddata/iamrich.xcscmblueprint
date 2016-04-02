@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "982802BBC33F7BBD891851D923592AD1C6299D3B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D74936EAB9179BC9C9DC80069576DEFABACE186A" : 0,
+    "982802BBC33F7BBD891851D923592AD1C6299D3B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2E0129A7-71F6-4EDF-AB8F-F921EFBCD7CA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D74936EAB9179BC9C9DC80069576DEFABACE186A" : "iamrich\/iamrich\/",
+    "982802BBC33F7BBD891851D923592AD1C6299D3B" : "iamrich\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iamrich",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iamrich.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dochihieu\/iamrich.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "982802BBC33F7BBD891851D923592AD1C6299D3B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dochihieu\/iamrich.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D74936EAB9179BC9C9DC80069576DEFABACE186A"
+    }
+  ]
+}
